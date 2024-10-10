@@ -1,12 +1,9 @@
-# Your Name Here
+# Margaret Hollingshead
 # UWYO COSC 1010
-# Submission Date
+# 10/10/24
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 12
+
 
 max_temps = [
     32, 24, 22, 25, 37, 33, 34, 40, 40, 42,
